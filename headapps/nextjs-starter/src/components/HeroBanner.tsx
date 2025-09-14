@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import { JSX } from 'react';
 import { Field, Text, Image as SitecoreImage, ImageField } from '@sitecore-jss/sitecore-jss-nextjs';
 
